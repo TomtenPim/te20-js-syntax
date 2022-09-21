@@ -1,0 +1,14 @@
+ul{
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+}
+
+body{
+    background-color: rgb(245, 255, 252);
+}
+
+input{
+    display: flex;
+    justify-content: center;
+}
